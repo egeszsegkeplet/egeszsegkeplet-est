@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Egeszsegkeplet//Informacios est//HU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:informacios-est-20261204@egeszsegkeplet.hu
+DTSTAMP:20261123T120000Z
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+SUMMARY:Egészségképlet információs est
+LOCATION:Oliva Hotel\, 8200 Veszprém\, Buhim utca 14–16.
+DESCRIPTION:Előadás\, esettanulmányok és konzultáció. Részvétel: d
+ íjmentes\, előzetes regisztrációhoz kötött. Szervező: MAX-CLEAN Kft
+ . Információ: https://egeszsegkeplet.github.io/egeszsegkeplet-est/
+URL:https://egeszsegkeplet.github.io/egeszsegkeplet-est/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
