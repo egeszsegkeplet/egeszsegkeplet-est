@@ -11,7 +11,7 @@
       var frame = document.createElement('iframe');
       frame.src = url.href + (url.search ? '&' : '?') + 'embedded=true';
       frame.title = 'Jelentkezési űrlap – Egészségképlet információs est';
-      frame.loading = 'lazy';
+      frame.loading = 'eager';
       frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
       var alt = document.createElement('p'); alt.className = 'small';
       var a = document.createElement('a'); a.href = url.href; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = 'Nem jelenik meg az űrlap? Nyisd meg külön lapon';
