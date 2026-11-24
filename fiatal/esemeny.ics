@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Egeszsegkeplet//Informacios est//HU
+BEGIN:VEVENT
+UID:egeszsegkeplet-20261204@egeszsegkeplet.hu
+DTSTAMP:20261123T160000Z
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+SUMMARY:Egészségképlet – információs est
+LOCATION:Oliva Hotel\, 8200 Veszprém\, Buhim utca 14–16.
+DESCRIPTION:Díjmentes\, regisztrációhoz kötött. Jelentkezés: +36 30 5
+ 83 6697. A naptármentés nem regisztráció.
+END:VEVENT
+END:VCALENDAR
